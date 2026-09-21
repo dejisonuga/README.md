@@ -30,13 +30,20 @@ I'm a web development learner building practical projects uisng the MERN and PER
 ### Backend
 
 - Node.js
-- Express
+- Express.js
+- REST APIs
 - PostgreSQL
-- REST API
-- MongoDB
 - MySQL
 - PHP
 - Python
+- MongoDB
+- Mongoose
+- CRUD operations
+- User authentication and authorization
+- JWT authentication
+- Password hashing with bcrypt
+- API testing and debugging
+- Environment variables and `.env` configuration
 
 ### Tools
 
