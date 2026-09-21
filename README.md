@@ -101,22 +101,23 @@ A JavaScript and React project practicing array and object destructuring with ne
 - Writing cleaner and more maintainable JavaScript
 
 ## Projects So Far
+- [HTML Portfolio](https://github.com/dejisonuga/html-portfolio)
+- [Capstone Project 1](https://github.com/dejisonuga/Capstone-Project-1)
+- [Bootstrap Project](https://github.com/dejisonuga/Bootstrap-Projects)
+- [Tindog Webpage](https://github.com/dejisonuga/tin-dog-webpage)
+- [Dicee Game](https://github.com/dejisonuga/dicee-game)
+- [FinPal Backend](https://github.com/dejisonuga/finPal--backend)
 - [React Forms](https://github.com/dejisonuga/react-forms)
 - [React Event Handling](https://github.com/dejisonuga/event-handling-in-react)
 - [React useState Practice](https://github.com/dejisonuga/usestate-hook-practice)
 - [ES6 Destructuring](https://github.com/dejisonuga/es6-destructuring)
-- [Work Done :](https://github.com/dejisonuga/Work-done.git)
-- [Gallery Assignment :](https://github.com/dejisonuga/Gallery-Assignment)
-- [Med Project :](https://github.com/dejisonuga/Med-Project)
-- [Car Project :](https://github.com/dejisonuga/Car-Project)
-- [HTML Portfolio :](https://github.com/dejisonuga/html-portfolio)
-- [Capstone Project 1 :](https://github.com/dejisonuga/Capstone-Project-1)
-- [Bootstrap Project :](https://github.com/dejisonuga/Bootstrap-Projects)
-- [Tindog Webpage :](https://github.com/dejisonuga/tin-dog-webpage)
-- [Dicee Game :](https://github.com/dejisonuga/dicee-game)
-- [Feedback App :](https://github.com/dejisonuga/feedbackApp)
-- [Feedback App Method2 :](https://github.com/dejisonuga/feedbackApp-Method2)
-- [FinPal Backend :](https://github.com/dejisonuga/finPal--backend)
+- [Feedback App](https://github.com/dejisonuga/feedbackApp)
+- [Feedback App Method2](https://github.com/dejisonuga/feedbackApp-Method2)
+- [Work Done](https://github.com/dejisonuga/Work-done.git)
+- [Gallery Assignment](https://github.com/dejisonuga/Gallery-Assignment)
+- [Med Project](https://github.com/dejisonuga/Med-Project)
+- [Car Project](https://github.com/dejisonuga/Car-Project)
+
 
 ## Connect With Me
 
