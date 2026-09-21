@@ -106,7 +106,7 @@ A JavaScript and React project practicing array and object destructuring with ne
 - [Bootstrap Project](https://github.com/dejisonuga/Bootstrap-Projects)
 - [Tindog Webpage](https://github.com/dejisonuga/tin-dog-webpage)
 - [Dicee Game](https://github.com/dejisonuga/dicee-game)
-- [FinPal Backend](https://github.com/dejisonuga/finPal--backend)
+- [FinPal Backend](https://github.com/dejisonuga/FinPal-Backend)
 - [React Forms](https://github.com/dejisonuga/react-forms)
 - [React Event Handling](https://github.com/dejisonuga/event-handling-in-react)
 - [React useState Practice](https://github.com/dejisonuga/usestate-hook-practice)
