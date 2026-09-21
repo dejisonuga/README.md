@@ -93,6 +93,19 @@ A JavaScript and React project practicing array and object destructuring with ne
 - Organizing projects with reusable data
 - Writing cleaner and more maintainable JavaScript
 
+## Projects So Far
+Work Done : https://github.com/dejisonuga/Work-done.git
+Gallery Assignment : https://github.com/dejisonuga/Gallery-Assignment
+Med Project : https://github.com/dejisonuga/Med-Project
+Car Project : https://github.com/dejisonuga/Car-Project
+HTML Portfolio : https://github.com/dejisonuga/html-portfolio
+Capstone Project 1 : https://github.com/dejisonuga/Capstone-Project-1
+Bootstrap Project : https://github.com/dejisonuga/Bootstrap-Projects
+Tindog Webpage : https://github.com/dejisonuga/tin-dog-webpage
+Dicee Game : https://github.com/dejisonuga/dicee-game
+Feedback App : https://github.com/dejisonuga/feedbackApp, https://github.com/dejisonuga/feedbackApp-Method2
+FinPal Backend : https://github.com/dejisonuga/finPal--backend
+
 ## Connect With Me
 
 - GitHub: [@dejisonuga](https://github.com/dejisonuga)
