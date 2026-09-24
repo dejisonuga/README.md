@@ -67,7 +67,7 @@ I'm a web development learner building practical projects uisng the MERN and PER
 
 ## Projects
 
-### React Forms
+### React State Hooks
 
 A React form application that captures a user's name and displays it after form submission.
 
@@ -79,26 +79,26 @@ A React project demonstrating click, mouse-over, and mouse-out event handling.
 
 **Technologies:** React, JavaScript, JSX
 
-### React useState Practice
+### React Changing Complex States
 
 A practice project using React state to display and update the current time.
 
 **Technologies:** React, `useState`, JavaScript
 
-### ES6 Destructuring
+### A To - Do List
 
-A JavaScript and React project practicing array and object destructuring with nested data.
+A simple to - do list web app that utilizes the functionalities of the React and NodeJS frameworks.
 
-**Technologies:** JavaScript, ES6, React
+**Technologies:** JavaScript, React, CSS, Node
 
 ## What I'm Learning
 
 - Building reusable React components
-- Managing state with React Hooks
+- Managing states with React Hooks
 - Handling forms and user input
 - Responding to user events
 - Organizing projects with reusable data
-- Writing cleaner and more maintainable JavaScript
+- Writing cleaner, shorter and more maintainable JavaScript codes
 
 ## Projects So Far
 - [HTML Portfolio](https://github.com/dejisonuga/html-portfolio)
@@ -110,6 +110,7 @@ A JavaScript and React project practicing array and object destructuring with ne
 - [React State Hook](https://github.com/dejisonuga/React-State-Hook)
 - [React Event Handling](https://github.com/dejisonuga/event-handling-in-react)
 - [React Changing Complex  State](https://github.com/dejisonuga/React-Changing-Complex-State)
+- [To-Do List](https://github.com/dejisonuga/A-To-Do-List-Using-React)
 - [Feedback App](https://github.com/dejisonuga/feedbackApp)
 - [Feedback App Method2](https://github.com/dejisonuga/feedbackApp-Method2)
 - [Work Done](https://github.com/dejisonuga/Work-done.git)
