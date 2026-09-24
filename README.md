@@ -107,7 +107,7 @@ A JavaScript and React project practicing array and object destructuring with ne
 - [Tindog Webpage](https://github.com/dejisonuga/tin-dog-webpage)
 - [Dicee Game](https://github.com/dejisonuga/dicee-game)
 - [FinPal Backend](https://github.com/dejisonuga/FinPal-Backend)
-- [React State Hook](https://github.com/dejisonuga/React-State-Hook))
+- [React State Hook](https://github.com/dejisonuga/React-State-Hook)
 - [React Event Handling](https://github.com/dejisonuga/event-handling-in-react)
 - [React Changing Complex  State](https://github.com/dejisonuga/React-Changing-Complex-State)
 - [Feedback App](https://github.com/dejisonuga/feedbackApp)
