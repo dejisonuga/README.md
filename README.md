@@ -75,6 +75,10 @@ I'm a Web Developer and Computer Science graduate with a strong interest in buil
 
 A simple to - do list web app that utilizes the functionalities of the React and NodeJS frameworks.
 
+### Keeper App
+
+A simple CRUD app with an input to create topic and write notes which can be updated or deleted later, purely written with React JavaScript.
+
 **Technologies:** JavaScript, React, CSS, Node
 
 ### React State Hooks
@@ -109,6 +113,7 @@ A practice project using React state to display and update the current time.
 * 🛠️ Strengthening my skills through practical projects and real-world problem solving
 
 ## Projects So Far
+- [Keeper App](https://github.com/dejisonuga/Keeper-App-with-React)
 - [To-Do List](https://github.com/dejisonuga/A-To-Do-List-Using-React)
 - [React State Hook](https://github.com/dejisonuga/React-State-Hook)
 - [React Event Handling](https://github.com/dejisonuga/event-handling-in-react)
