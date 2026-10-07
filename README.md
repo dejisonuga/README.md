@@ -118,6 +118,7 @@ A practice project using React state to display and update the current time.
 - [React State Hook](https://github.com/dejisonuga/React-State-Hook)
 - [React Event Handling](https://github.com/dejisonuga/event-handling-in-react)
 - [React Changing Complex  State](https://github.com/dejisonuga/React-Changing-Complex-State)
+- [Segua Website Revamp](https://segua.ng)
 - [FinPal Backend](https://github.com/dejisonuga/FinPal-Backend)
 - [HTML Portfolio](https://github.com/dejisonuga/html-portfolio)
 - [Car Project](https://github.com/dejisonuga/Car-Project)
